@@ -80,6 +80,7 @@ export default function LandingPage() {
           imageAlt="Strategic consulting team collaboration"
           useInvertedBackground={false}
           mediaAnimation="slide-up"
+          metricsAnimation="slide-up"
         />
       </div>
 
